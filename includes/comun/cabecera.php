@@ -14,7 +14,7 @@ function mostrarSaludo()
 ?>
 
 <header>
-    <h1>Mi gran página web</h1>
+    <h1>Mi gran página web Beta</h1>
     <div class="saludo">
     <?php
 		mostrarSaludo();
